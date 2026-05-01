@@ -48,7 +48,7 @@ If you want to run the notebook yourself, we used:
 *(Note: Just make sure you have `clean_data.csv` in the same directory before you run the notebook!)*
 
 ## Team / Contributors 🎓
-**Faculty of Computer and Information Systems, EUI (Class of 2026)**
+**Faculty of Computer and Information Science, EUI**
 * Mostafa Elnagar (24-101443)
 * Adham Shams (24-101192)
 * Ahmed Sami (24-101314)
